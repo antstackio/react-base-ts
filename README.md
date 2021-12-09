@@ -1,6 +1,6 @@
 # Tooling
 
-- husky
+<!-- - husky -->
   <!-- - ts-configs  -->
   <!-- - vite-config -->
 - react-router
