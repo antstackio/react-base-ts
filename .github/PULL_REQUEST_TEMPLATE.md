@@ -2,11 +2,10 @@
 
 Please include a summary of the change and which issue is fixed.
 
-## Jira Ticket
+## Jira Ticket / GitHub Issue Link
 
-Mention Jira Ticket
-
-https://ant-koinworks.atlassian.net/browse/KH-<ID>
+[]: # Jira Ticket
+[]: # GitHub Issue Link
 
 ## Type of change
 
