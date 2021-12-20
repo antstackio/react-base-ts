@@ -4,8 +4,8 @@
   <!-- - ts-configs  -->
   <!-- - vite-config -->
 - react-router
-- PR template
-- Issue Template
+<!-- - PR template -->
+<!-- - Issue Template -->
 
 # Lints
 
